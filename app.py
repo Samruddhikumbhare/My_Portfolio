@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    name = "Samruddhi Nikhare"
+    name = "Samruddhi Kumbhare"
     projects = [
         {
             "title": "CI/CD pipeline with GitHub webhook", 
